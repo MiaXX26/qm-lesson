@@ -1,0 +1,4 @@
+<text class="iconfont icon-{{type}}" style="color:{{color}}"></text>
+
+<!-- props -->
+<!-- <icon type="edit" /> -->
